@@ -9,7 +9,7 @@ import closeIcon from "../images/closeIcon.png"
 
 let socket;
 
-const ENDPOINT = "http://localhost:4500"
+const ENDPOINT = "https://chalo-chat-kare.herokuapp.com/"
 
 export const Chat = () => {
     const [id, setid] = React.useState("")
