@@ -1,5 +1,6 @@
 .chatPage {
-    background-image: url(../images/dark.jpg);
+    /* background-image: url(../images/dark.jpg); */
+    background: lightgrey;
     width: 100vw;
     height: 100vh;
     display: flex;

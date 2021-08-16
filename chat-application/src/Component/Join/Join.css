@@ -1,6 +1,6 @@
 .JoinPage {
-    background-image: url(../images/light.jpg);
-    /* background-color: lightgrey; */
+    /* background-image: url(../images/light.jpg); */
+    background-color: lightgrey;
     width: 100vw;
     height: 100vh;
     display: flex;
