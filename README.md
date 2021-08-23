@@ -2,7 +2,7 @@
 
 ## Login Page
 
-![Screenshot (1197)](https://user-images.githubusercontent.com/61904192/129697147-9348b0c5-da73-447f-9161-0d4fa773b443.png)
+![Screenshot (1216)](https://user-images.githubusercontent.com/61904192/130483521-a8cfa839-c79f-4234-b12d-5030e63926a8.png)
 
 ## Chat Box
 
