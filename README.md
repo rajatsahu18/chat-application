@@ -6,4 +6,4 @@
 
 ## Chat Box
 
-![Screenshot (1207)](https://user-images.githubusercontent.com/61904192/129855542-ba43bba9-5ec3-4b25-858e-5acd1360cdfb.png)
+![Screenshot (1219)](https://user-images.githubusercontent.com/61904192/131260616-275a87fd-72a4-4daa-86fa-4e92097e13a0.png)
